@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "winston": "^2.*",
+    "winston-papertrail": "^1.0.5"
+  }
+}
